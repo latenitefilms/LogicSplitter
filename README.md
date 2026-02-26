@@ -1,3 +1,3 @@
-# <<APPLICATION_FULL_NAME>>
+# LogicSplitter
 
 Application description coming soon!
