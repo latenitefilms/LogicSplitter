@@ -1,18 +1,17 @@
 input: .
 output: .retype
 
-url: LogicSplitter.fcp.cafe
+url: logicsplitter.fcp.cafe
 
 favicon: static/favicon.ico
 
 branding:
   title: LogicSplitter
-  logo: static/logo-dark.png
-  logoDark: static/logo-light.png
+  logo: static/LogicSplitter.png
 
 links:
 
-- text: Buy on Mac App Store
+- text: Buy on FxFactory
   link: /buy/
   icon: desktop-download
 
